@@ -1,1 +1,1 @@
-#snake game with javascript canvas api
+# snake game with javascript canvas api
